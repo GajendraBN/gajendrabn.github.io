@@ -44,7 +44,7 @@ Want to help expand language support, improve accessibility, or localize for new
 ## 📬 Contact
 
 For feedback, collaboration, or press inquiries:  
-**Gajendra** – [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Email](mailto:YOUR_EMAIL)
+**Gajendra Budihala** – [LinkedIn](https://www.linkedin.com/in/gajendra-babu) | [Email](mailto:g.innerpeacemaster@gmail.com)
 
 ---
 
