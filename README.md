@@ -1,6 +1,6 @@
 # 🇩🇪 Einbürgerungstest & LiD App – Your Path to German Citizenship
 
-Welcome to **Einbürgerungstest $ LiD **, the most inclusive and up-to-date app for preparing for the German naturalization test. Whether you're using **iOS** or **Android**, this app helps you master all 460 official questions with multilingual support, smart tracking, and a clean, distraction-free interface.
+Welcome to **Einbürgerungstest $ LiD**, the most inclusive and up-to-date app for preparing for the German naturalization test. Whether you're using **iOS** or **Android**, this app helps you master all 460 official questions with multilingual support, smart tracking, and a clean, distraction-free interface.
 
 ---
 
