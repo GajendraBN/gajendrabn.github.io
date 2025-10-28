@@ -9,7 +9,7 @@ Welcome to **Einbürgerungstest $ LiD**, the most inclusive and up-to-date app f
 | Platform | Link |
 |----------|------|
 |  iOS (App Store) | [Download on the App Store](https://apps.apple.com/us/app/einb%C3%BCrgerungstest-2025-app/id6753904780) |
-| 🟩 ![Android] Android (Google Play) | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.einburgerapp.premium&hl=en) |
+| 🤖 Android (Google Play) | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.einburgerapp.premium&hl=en) |
 
 ---
 
