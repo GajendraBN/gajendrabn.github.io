@@ -1,6 +1,6 @@
-# 🇩🇪 Einbürgerungstest & LiD App – Your Path to German Citizenship
+# 🇩🇪 Einbürgerungstest 2026 App – Your Path to German Citizenship and PR
 
-Welcome to **Einbürgerungstest $ LiD**, the most inclusive and up-to-date app for preparing for the German naturalization test. Whether you're using **iOS** or **Android**, this app helps you master all 460 official questions with multilingual support, smart tracking, and a clean, distraction-free interface.
+Welcome to **Einbürgerungstest**, the most inclusive and up-to-date app for preparing for the German naturalization test. Whether you're using **iOS** or **Android**, this app helps you master all 460 official questions with multilingual support, smart tracking, and a clean, distraction-free interface.
 
 ---
 
@@ -15,12 +15,12 @@ Welcome to **Einbürgerungstest $ LiD**, the most inclusive and up-to-date app f
 
 ## 🎯 Key Features
 
-- ✅ **All 460 official questions** for 2025
-- 🌍 **Multilingual support**: German, English, Turkish, Arabic, Russian, French, Ukrainian
+- ✅ **All 460 official questions** for 2026
+- 🌍 **Multilingual support**: German 🇩🇪, English 🇬🇧, Turkish 🇹🇷, Arabic 🇸🇦, Russian 🇷🇺, French 🇫🇷, Ukrainian 🇺🇦, Spanish 🇪🇸, Thai 🇹🇭, Chinese 🇨🇳, Hindi 🇮🇳.
 - 📊 **Progress tracking** with smart review mode
 - 🧠 **Adaptive learning**: Focus on what you need most
 - 🎨 **Clean UI** optimized for accessibility and speed
-- 🔒 **Privacy-first**: No account required, no ads in study mode
+- 🔒 **Privacy-first**: No account required, no ads in study mode (premium)
 
 ---
 
@@ -37,7 +37,7 @@ This app empowers newcomers to Germany with a respectful, multilingual, and cult
 
 ## 🤝 Contribute or Collaborate
 
-Want to help expand language support, improve accessibility, or localize for new regions? Feel free to open an issue or submit a pull request. We welcome contributions that make civic education more inclusive.
+Want to help expand language support, improve accessibility, or localize for new regions? Feel free to open an issue or submit a pull request. We welcome contributions that enhance civic education's inclusivity.
 
 ---
 
